@@ -1,4 +1,5 @@
 {
+  "name": "app",
   "scripts": {
     "start": "nodemon src/app.js"
   },

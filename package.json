@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "daemon": "^1.1.0",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "errorhandler": "^1.5.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7",
+    "require": "^2.4.20",
+    "socket.io": "^4.7.2"
+  }
+}

@@ -1,0 +1,11 @@
+
+<%- include('./layouts/head') %>
+<%
+    let _tableno = data._tableno;
+%>
+<title>RED GOLD TABLET CLOCK <%=_tableno%></title>
+</head>
+<body data-table="<%=_tableno%>">
+<%- include(`./contents/bodyclock`) %>
+<%- include('./layouts/foot') %>
+
